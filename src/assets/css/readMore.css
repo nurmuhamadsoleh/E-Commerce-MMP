@@ -1,0 +1,17 @@
+.readmore-btn{
+    display: inline-block;
+    color: #fff;
+    background-color: #2196f3;
+    text-decoration: none;
+    padding: 10px 15px;
+    border-radius: 8px;
+}
+.readmore-btn:hover {
+    box-shadow: 0 5px 5px rgba(0,0,0,0.2);
+}
+.showContent p{
+    height: auto;
+}
+.showContent a.readmore-btn{
+    background-color: red;
+}
