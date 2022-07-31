@@ -25,9 +25,9 @@ const Homepage = () => {
                 <div className="col-sm-12 mb-3">
                     <Link to="/allproduct" className="btn btn-danger">See All Produk</Link>
                 </div>
-                {products.map((product)=>{
+                {/* {products.map((product)=>{
                     return <MyCart title={product.title} id={product.id} price={product.price} image={product.image} city={product.city}/>
-                })}
+                })} */}
             </div>
 
         </div>        
